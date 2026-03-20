@@ -4,7 +4,7 @@ A Python text-based investigation game where you uncover the secrets of a myster
 
 ## Game Description
 
-In *The Quiet Society*, you play as a college student who hears rumors of a secret organization. Some say they help students, others say they control things quietly. Your goal is to **gather evidence** — documents, photos, and recordings — to determine whether the organization is malicious before time runs out.
+In *The Quiet Society*, you play as a college student who hears rumors of a secret organization. Some say they help students, others say they control things quietly. Your goal is to **gather evidence** documents, photos, and recordings to determine whether the organization is malicious before time runs out.
 
 The game features:
 - A cinematic opening scene
